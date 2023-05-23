@@ -1,0 +1,19 @@
+* {
+  scroll-behavior: smooth;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 2rem 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+/* rtl:begin:remove */
+.featurette-heading {
+  letter-spacing: -0.05rem;
+}
+
+/* rtl:end:remove */
